@@ -3,7 +3,7 @@
 #### 1. Total Number of parameters used - 16,338
 #### 2. Accuracy achivieved on test - 99.48% in 9 epoch
 
-### Recipe that I tried and played and worked to reduce the number of parameters, increase in accuracy of from the vanilla model are
+#### Recipe that I tried and played and worked to reduce the number of parameters, increase in accuracy of from the vanilla model are
 1. Batch Normalization
 2. Only one Maxpool layer
 3. Not using padding in deeper layers
