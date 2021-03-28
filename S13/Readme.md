@@ -1,3 +1,4 @@
+
 Train YoloV3 on custom data set:
 
 1. Data Annotation with  https://github.com/miki998/YoloV3_Annotation_Tool
@@ -14,3 +15,6 @@ Train YoloV3 on custom data set:
 4. Link to my infered video: https://www.youtube.com/watch?v=WoBlyFmzISo
 
 Thanks
+
+
+![train_batch0](https://user-images.githubusercontent.com/16939617/112738511-846d9e00-8f89-11eb-87f5-c629bf78dde9.png)
